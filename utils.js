@@ -20,13 +20,6 @@ const PORT = 3000;
 //   PORT,
 // };
 
-// module.exports = {
-//   multiplyNumber,
-//   getGreeting,
-//   car,
-//   PORT,
-// };
-
 exports.multiplyNumber = multiplyNumber;
 
 exports.getGreeting = getGreeting;
